@@ -31,7 +31,7 @@ Please submit a PR with your slides.
 | 15:35 PM - 16:25 PM | [Andrews Medina](https://github.com/andrewsmedina) | Escrevendo uma aplicação realtime para milhares de usuários simultâneos | |
 | 16:55 PM - 17:15 PM | [Rodrigo Pinheiro](https://github.com/rpinheiroalmeida) | Criando uma estrutura de dados e algoritmos de Data Science em Golang | |
 | 17:15 PM - 17:35 PM | [Leandro Lugaresi](https://github.com/leandro-lugaresi) | Utilizando pipelines em GO | |
-| 17:50 PM - 18:40 PM | [Steve Francia](https://github.com/spf13) | The state of Go | |
+| 17:50 PM - 18:40 PM | Steve Francia [![](https://www.codeproject.com/script/Membership/Images/octicons_github.png)](https://github.com/spf13) [![](https://s.gr-assets.com/assets/icons/twitter_icon-2289166aec1c47ee68cfb5716142273f.jpg)](https://twitter.com/spf13) | The state of Go | |
 
 ### Day 3: Workshops
 
