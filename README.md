@@ -16,7 +16,7 @@ Please submit a PR with your slides.
 | 14:30 PM - 15:20 PM | [Guilherme Rezende](https://github.com/guilhermebr) and [Raphael Guarilha](https://github.com/guarilha) | [Understanding Blockchain with Go](https://gitpitch.com/guilhermebr/blockchain-talk) :us: | |
 | 15:35 PM - 16:25 PM | Alexandre Saboia Fuziyama | Nas internas do CartolaFC: como é a nova arquitetura do game feita para suportamos um volume ainda maior de acessos | |
 | 16:55 PM - 17:15 PM | [Wellington F. Silva](http://wfsilva.com) | [Contêineres Linux na unha](https://speakerdeck.com/wsilva/linux-conteineres-na-unha-gophercon-brasil-2017) :brazil: | |
-| 17:15 PM - 17:35 PM | Felipe Paes de Oliveira | Context como usa-lo? | |
+| 17:15 PM - 17:35 PM | [Felipe Paes de Oliveira](https://github.com/felipeweb) | [Context como usa-lo?](https://www.felipeweb.net.br/talk/context/) :brazil: | |
 | 17:50 PM - 18:40 PM | [André Carvalho](https://github.com/andrestc) | [Tracing Concurrency in Go](https://github.com/gopherconbr/2017-talks/blob/master/go-execution-tracer.pdf) :us: | |
 | 18:40 PM - 19:30 PM | Luciano Ramalho | Cadê o paradigma? | |
 
