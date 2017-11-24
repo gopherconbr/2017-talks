@@ -15,7 +15,7 @@ Please submit a PR with your slides.
 | 11:40 AM - 12:30 PM | Daniela Petruzalek | Women Who Go: promovendo a diversidade e inclusão na comunidade Go | |
 | 14:30 PM - 15:20 PM | Guilherme Rezende and Raphael Guarilha | Understanding Blockchain with Go | |
 | 15:35 PM - 16:25 PM | Alexandre Saboia Fuziyama | Nas internas do CartolaFC: como é a nova arquitetura do game feita para suportamos um volume ainda maior de acessos | |
-| 16:55 PM - 17:15 PM | Wellington Figueira da Silva | Contêineres Linux na unha | |
+| 16:55 PM - 17:15 PM | [Wellington F. Silva](wfsilva.com) | [Contêineres Linux na unha](https://speakerdeck.com/wsilva/linux-conteineres-na-unha-gophercon-brasil-2017) | |
 | 17:15 PM - 17:35 PM | Felipe Paes de Oliveira | Context como usa-lo? | |
 | 17:50 PM - 18:40 PM | [André Carvalho](https://github.com/andrestc) | [Tracing Concurrency in Go](https://github.com/gopherconbr/2017-talks/blob/master/go-execution-tracer.pdf) | |
 | 18:40 PM - 19:30 PM | Luciano Ramalho | Cadê o paradigma? | |
