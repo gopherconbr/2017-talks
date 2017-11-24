@@ -38,4 +38,4 @@ Please submit a PR with your slides.
 | Timeslot    | Instructors | Source |
 | ----------- | ----------- | -------|
 | 9:00 AM - 5:00 PM | Daniela Petruzalek & Ellen Korbes | [Ready to Go: Uma introdução prática à linguagem Go](https://github.com/ellenkorbes/ready-to-go) :brazil: |
-| 9:00 AM - 5:00 PM | Andrews Medina | Go pra quem sabe Go |
+| 9:00 AM - 5:00 PM | Andrews Medina | [Go pra quem sabe Go](https://github.com/andrewsmedina/go-para-quem-sabe-go) :brazil: |
