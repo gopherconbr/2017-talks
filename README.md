@@ -37,5 +37,5 @@ Please submit a PR with your slides.
 
 | Timeslot    | Instructors | Source |
 | ----------- | ----------- | -------|
-| 9:00 AM - 5:00 PM | Daniela Petruzalek [![](https://www.codeproject.com/script/Membership/Images/octicons_github.png)](https://github.com/danicat) & [![](https://www.codeproject.com/script/Membership/Images/octicons_github.png)](https://github.com/ellenkorbes) | [Ready to Go: Uma introdução prática à linguagem Go](https://github.com/ellenkorbes/ready-to-go) :brazil: |
+| 9:00 AM - 5:00 PM | Daniela Petruzalek [![](https://www.codeproject.com/script/Membership/Images/octicons_github.png)](https://github.com/danicat) & Ellen Korbes [![](https://www.codeproject.com/script/Membership/Images/octicons_github.png)](https://github.com/ellenkorbes) | [Ready to Go: Uma introdução prática à linguagem Go](https://github.com/ellenkorbes/ready-to-go) :brazil: |
 | 9:00 AM - 5:00 PM | Andrews Medina [![](https://www.codeproject.com/script/Membership/Images/octicons_github.png)](https://github.com/andrewsmedina) | [Go pra quem sabe Go](https://github.com/andrewsmedina/go-para-quem-sabe-go) :brazil: |
