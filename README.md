@@ -18,7 +18,7 @@ Please submit a PR with your slides.
 | 16:55 PM - 17:15 PM | [Wellington F. Silva](http://wfsilva.com) | [Contêineres Linux na unha](https://speakerdeck.com/wsilva/linux-conteineres-na-unha-gophercon-brasil-2017) :brazil: | |
 | 17:15 PM - 17:35 PM | [Felipe Paes de Oliveira](https://github.com/felipeweb) | [Context como usa-lo?](https://www.felipeweb.net.br/talk/context/) :brazil: | |
 | 17:50 PM - 18:40 PM | [André Carvalho](https://github.com/andrestc) | [Tracing Concurrency in Go](https://github.com/gopherconbr/2017-talks/blob/master/go-execution-tracer.pdf) :us: | |
-| 18:40 PM - 19:30 PM | [Luciano Ramalho](https://github.com/ramalho) | Cadê o paradigma? | |
+| 18:40 PM - 19:30 PM | Luciano Ramalho [![](https://www.codeproject.com/script/Membership/Images/octicons_github.png)](https://github.com/ramalho) [![](https://s.gr-assets.com/assets/icons/twitter_icon-2289166aec1c47ee68cfb5716142273f.jpg)](https://twitter.com/ramalhoorg)| Cadê o paradigma? | |
 
 ### Day 2
 
