@@ -24,7 +24,7 @@ Please submit a PR with your slides.
 
 | Timeslot    | Speaker     | Slide Deck | Video |
 | ----------- | ----------- | ---------- | ----- |
-| 9:15 AM - 10:05 AM | [Francesc Campoy](https://github.com/campoy) | Understanding the interface | |
+| 9:15 AM - 10:05 AM | Francesc Campoy [![](https://www.codeproject.com/script/Membership/Images/octicons_github.png)](https://github.com/campoy) [![](https://s.gr-assets.com/assets/icons/twitter_icon-2289166aec1c47ee68cfb5716142273f.jpg)](https://twitter.com/francesc) | Understanding the interface | |
 | 10:35 AM - 11:25 AM | Carlisia Pinto [![](https://www.codeproject.com/script/Membership/Images/octicons_github.png)](https://github.com/carlisia) [![](https://s.gr-assets.com/assets/icons/twitter_icon-2289166aec1c47ee68cfb5716142273f.jpg)](https://twitter.com/carlisia) | The Life of a Safe Gopher | |
 | 11:40 AM - 12:30 PM | Guilherme Garnier [![](https://www.codeproject.com/script/Membership/Images/octicons_github.png)](https://github.com/ggarnier) [![](https://s.gr-assets.com/assets/icons/twitter_icon-2289166aec1c47ee68cfb5716142273f.jpg)](https://twitter.com/gpgarnier) | [Goroutines and channels in practice](https://github.com/gopherconbr/2017-talks/blob/master/goroutines-and-channels-in-practice.pdf) :us: | |
 | 14:30 PM - 15:20 PM | Aditya Mukerjee [![](https://www.codeproject.com/script/Membership/Images/octicons_github.png)](https://github.com/chimeracoder) [![](https://s.gr-assets.com/assets/icons/twitter_icon-2289166aec1c47ee68cfb5716142273f.jpg)](https://twitter.com/chimeracoder) | [করো: Translating Go to Other (Human) Languages, and Back Again ](https://speakerdeck.com/chimeracoder/kro-translating-go-to-other-human-languages-and-back-again-gophercon-brasil)| |
