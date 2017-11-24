@@ -27,7 +27,7 @@ Please submit a PR with your slides.
 | 9:15 AM - 10:05 AM | [Francesc Campoy](https://github.com/campoy) | Understanding the interface | |
 | 10:35 AM - 11:25 AM | [Carlisia Pinto](https://github.com/carlisia) | The Life of a Safe Gopher | |
 | 11:40 AM - 12:30 PM | [Guilherme Garnier](https://github.com/ggarnier) | [Goroutines and channels in practice](https://github.com/gopherconbr/2017-talks/blob/master/goroutines-and-channels-in-practice.pdf) :us: | |
-| 14:30 PM - 15:20 PM | [Aditya Mukerjee](https://github.com/chimeracoder) | করো: Translating Go to Other (Human) Languages, and Back Again | |
+| 14:30 PM - 15:20 PM | [Aditya Mukerjee](https://github.com/chimeracoder) | [করো: Translating Go to Other (Human) Languages, and Back Again ](https://speakerdeck.com/chimeracoder/kro-translating-go-to-other-human-languages-and-back-again-gophercon-brasil)| |
 | 15:35 PM - 16:25 PM | [Andrews Medina](https://github.com/andrewsmedina) | Escrevendo uma aplicação realtime para milhares de usuários simultâneos | |
 | 16:55 PM - 17:15 PM | [Rodrigo Pinheiro](https://github.com/rpinheiroalmeida) | Criando uma estrutura de dados e algoritmos de Data Science em Golang | |
 | 17:15 PM - 17:35 PM | [Leandro Lugaresi](https://github.com/leandro-lugaresi) | Utilizando pipelines em GO | |
