@@ -12,7 +12,7 @@ Please submit a PR with your slides.
 | ----------- | ----------- | ---------- | ----- | 
 | 9:15 AM - 10:05 AM | Gustavo Niemeyer | Snaps e o futuro da distribuição de software | |
 | 10:35 AM - 11:25 AM | [Marco Singer](https://github.com/marcosinger) | [Gerando laudos médicos em Go](https://github.com/gopherconbr/2017-talks/blob/master/gerando_laudos_medicos_em_go.pdf) | |
-| 11:40 AM - 12:30 PM | Daniela Petruzalek | Women Who Go: promovendo a diversidade e inclusão na comunidade Go | |
+| 11:40 AM - 12:30 PM | [Daniela Petruzalek](https://github.com/danicat) | [Women Who Go: promovendo a diversidade e inclusão na comunidade Go](https://speakerdeck.com/danicat/wwg-promoting-diversity-and-inclusion-in-the-go-community) | |
 | 14:30 PM - 15:20 PM | Guilherme Rezende and Raphael Guarilha | Understanding Blockchain with Go | |
 | 15:35 PM - 16:25 PM | Alexandre Saboia Fuziyama | Nas internas do CartolaFC: como é a nova arquitetura do game feita para suportamos um volume ainda maior de acessos | |
 | 16:55 PM - 17:15 PM | [Wellington F. Silva](http://wfsilva.com) | [Contêineres Linux na unha](https://speakerdeck.com/wsilva/linux-conteineres-na-unha-gophercon-brasil-2017) | |
