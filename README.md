@@ -25,7 +25,7 @@ Please submit a PR with your slides.
 | Timeslot    | Speaker     | Slide Deck | Video |
 | ----------- | ----------- | ---------- | ----- |
 | 9:15 AM | [Francesc Campoy](https://github.com/campoy) | Understanding the interface | |
-| 10:35 AM | [Carlisia Pinto](https://github.com/carlisia) | The Life of a Safe Gopher | |
+| 10:35 AM | [Carlisia Pinto](https://github.com/carlisia) | [The Life of a Safe Gopher](https://speakerdeck.com/carlisia/the-life-of-a-safe-gopher) | |
 | 11:40 AM | [Guilherme Garnier](https://github.com/ggarnier) | [Goroutines and channels in practice](https://github.com/gopherconbr/2017-talks/blob/master/goroutines-and-channels-in-practice.pdf) :us: | |
 | 14:30 PM | [Aditya Mukerjee](https://github.com/chimeracoder) | [করো: Translating Go to Other (Human) Languages, and Back Again ](https://speakerdeck.com/chimeracoder/kro-translating-go-to-other-human-languages-and-back-again-gophercon-brasil) :us: | |
 | 15:35 PM | [Andrews Medina](https://github.com/andrewsmedina) | Escrevendo uma aplicação realtime para milhares de usuários simultâneos | |
